@@ -2,7 +2,7 @@
 
 A console-based banking application simulating core financial operations with secure transaction processing and account management.
 
-![Terminal Demo Screenshot](image.png) <!-- Add your screenshot here -->
+![Terminal Demo Screenshot](image2.png) <!-- Add your screenshot here -->
 
 ##  Features
 
