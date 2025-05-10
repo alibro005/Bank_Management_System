@@ -13,8 +13,8 @@ A console-based banking application simulating core financial operations with se
   - Secure deposit/withdrawal operations
   - Overdraft protection
 - **User Experience**
-  > Intuitive console menu
-  > Input validation and error handling
- 
+ - Intuitive console menu
+ - Input validation and error handling
+    
 Developed by Me
 🔗 Connect with me on LinkedIn
