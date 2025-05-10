@@ -4,7 +4,7 @@ A console-based banking application simulating core financial operations with se
 
 ![Terminal Demo Screenshot](image.png) <!-- Add your screenshot here -->
 
-## ✨ Features
+##  Features
 
 - **Account Management**
   - Create new accounts (100 accounts capacity)
@@ -13,8 +13,8 @@ A console-based banking application simulating core financial operations with se
   - Secure deposit/withdrawal operations
   - Overdraft protection
 - **User Experience**
-  - Intuitive console menu
-  - Input validation and error handling
+  > Intuitive console menu
+  > Input validation and error handling
  
 Developed by Me
 🔗 Connect with me on LinkedIn
