@@ -16,5 +16,6 @@ A console-based banking application simulating core financial operations with se
   - Intuitive console menu
   - Input validation and error handling
     
-Developed by Me
-🔗 Connect with me on LinkedIn
+> Developed by Me as Programing Fundamental Project 
+
+🔗 Connect with me on ![LinkedIn](www.linkedin.com/in/alibro005)
