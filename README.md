@@ -18,4 +18,4 @@ A console-based banking application simulating core financial operations with se
     
 > Developed by Me as Programing Fundamentals Project 
 
-🔗 Connect with me on (www.linkedin.com/in/alibro005)
+🔗 Connect with me on ![LinkedIn](www.linkedin.com/in/alibro005)
