@@ -16,10 +16,11 @@ void displayBalance();
 
 int main()
 {
-    for (int i = 0; i <= 5; i++)
+    while (true)
     {
-        menu();
+    menu();
     }
+    
     return 0;
 }
 
